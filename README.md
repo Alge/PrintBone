@@ -98,7 +98,7 @@ The ```generate_trombone.sh``` script generates all the models in STL format, wi
 test play the trombone. The entire range should respond evenly at all volumes. If any notes are hard to play, you probably have a leak somewhere.
 
 # How large a printer do I need?
-The current large bore model is meant to be printed on a printer that can print at least 21*22*20 centimeters. The small bore model fits on 180x180x200mm printers. It can be modified for smaller or larger printers relatively easily.
+The current large bore model is meant to be printed on a printer that can print at least 21x22x20 centimeters. The small bore model fits on 180x180x200mm printers. It can be modified for smaller or larger printers relatively easily.
 
 # Slide
 
